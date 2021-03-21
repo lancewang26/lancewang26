@@ -6,7 +6,7 @@
 
 </p>
 <h3> Hi! My name is Lance. Thank You for taking the time to view my GitHub Profile :smile: </h3>
-
+<br>
 <p align = 'center'>
 <a href = 'https://www.github.com/lancewang26'> <img width = '44px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
