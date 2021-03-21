@@ -2,9 +2,6 @@
 <img width="300px" src="https://github.com/lancewang26/lancewang26/blob/main/hello-world.gif" alt="cover" />
 </div>
 
-<h1 align='center'> Hello World <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
-<p align='center'>
-
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=lancewang26.lancewang26)
 
 </p>
