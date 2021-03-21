@@ -5,7 +5,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=lancewang26.lancewang26)
 
 </p>
-<div size='20px'> Hi! My name is Lance. Thank You for taking the time to view my GitHub Profile :smile: 
+<h3> Hi! My name is Lance. Thank You for taking the time to view my GitHub Profile :smile: </h3>
 <h2 align='center'> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <p align = 'center'>
 <a href = 'https://www.github.com/lancewang26'> <img width = '44px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
